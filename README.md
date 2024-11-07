@@ -10,6 +10,7 @@ Contrafact Creator brings knowledge of music theory, melody, and lyrical composi
 #
 ### Alex's Example
 
+```
 Creating a contrafact of AC/DC's "Back in Black" with lyrics centered around a cannabis theme could be a fun challenge! 
 
 Title: "Back in Green"
@@ -30,6 +31,7 @@ Chorus
 Blowin' smoke like a hazy dream.
 I’m back in green, doin' fine,
 Lettin’ loose, yeah, it’s my time.
+```
 
 #
 ![Contrafact Creator](https://github.com/user-attachments/assets/271633ba-d46c-4256-9d46-0e72b4f21b9c)
