@@ -8,7 +8,7 @@
 Contrafact Creator brings knowledge of music theory, melody, and lyrical composition to support users in their creative pursuits. It encourages creativity, providing constructive suggestions and feedback to help users refine their contrafacts. By offering tailored advice, the GPT can adjust its guidance to suit various styles, moods, and musical genres. It also maintains a focus on originality, ensuring that the new lyrics respect copyright boundaries and avoid any inappropriate or offensive language, all while helping users achieve a seamless lyrical adaptation to the chosen melody.
 
 #
-![Contrafact_Creator](https://github.com/user-attachments/assets/43de2648-7e08-422d-acbf-120788e6e05f)
+![Contrafact Creator](https://github.com/user-attachments/assets/fec63c0d-155d-4b88-875b-65dbe168556b)
 
 #
 ### Related Links
