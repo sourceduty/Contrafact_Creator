@@ -8,6 +8,30 @@
 Contrafact Creator brings knowledge of music theory, melody, and lyrical composition to support users in their creative pursuits. It encourages creativity, providing constructive suggestions and feedback to help users refine their contrafacts. By offering tailored advice, the GPT can adjust its guidance to suit various styles, moods, and musical genres. It also maintains a focus on originality, ensuring that the new lyrics respect copyright boundaries and avoid any inappropriate or offensive language, all while helping users achieve a seamless lyrical adaptation to the chosen melody.
 
 #
+### Alex's Example
+
+Creating a contrafact of AC/DC's "Back in Black" with lyrics centered around a cannabis theme could be a fun challenge! 
+
+Title: "Back in Green"
+
+Verse 1
+I hit the ground, don’t look back,
+Outta sight with a little bit of slack,
+Got a green roll, burn it slow,
+Feelin' lifted, let it flow.
+
+Yes, I'm high in the clouds, I’m livin’ free,
+Got the good stuff, just like it ought to be.
+Look at me now, another round,
+Blazin’ up, yeah, I’m feelin' sound.
+
+Chorus
+'Cause I’m back in green, I’m on the scene,
+Blowin' smoke like a hazy dream.
+I’m back in green, doin' fine,
+Lettin’ loose, yeah, it’s my time.
+
+#
 ![Contrafact Creator](https://github.com/user-attachments/assets/271633ba-d46c-4256-9d46-0e72b4f21b9c)
 
 #
